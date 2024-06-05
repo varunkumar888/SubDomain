@@ -1,1 +1,1 @@
-https://security.kristikai.com/PentesterHelper/Subdomainfinder.php
+🔗  https://security.kristikai.com/PentesterHelper/Subdomainfinder.php
